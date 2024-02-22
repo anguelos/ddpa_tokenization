@@ -1,3 +1,11 @@
+# to be ignored arbitrarilly
+doc/source/_static/packages_ddp_tokenization.png
+.vscode/
+glove.6B.zip
+
+# sphinx-build output
+doc/build/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
